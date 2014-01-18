@@ -1,4 +1,4 @@
 suda_mtk_tools
 ==============
 
-mtk boot.img recovery一键解包，打包工具
+mtk boot.img recovery.img一键解包，打包工具
